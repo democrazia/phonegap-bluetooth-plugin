@@ -44,7 +44,7 @@ var DeviceView = Backbone.View.extend({
 
 	render: function() {
 		this.$el.html(_.template(this.template, {
-			name: this.model.get('name'),
+			name: this.model.get('address'),
 			isConnected: this.model.get('isConnected')
 		}));
 		return this;
