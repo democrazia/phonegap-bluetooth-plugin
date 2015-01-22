@@ -15,6 +15,7 @@ var templates = {
                             "</button>" +
                         "<% } else { %>" +
                             "<button type='button' class='btn btn-default btn-block btn-bt btn-bt-connect' data-loading-text='Connecting...' disabled>" +
+                                "<span class='glyphicon glyphicon-envelope'></span> Write" +
                                 "<span class='glyphicon glyphicon-transfer'></span> Connect" +
                             "</button>" +
                         "<% } %>" +
