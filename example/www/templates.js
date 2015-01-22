@@ -7,7 +7,7 @@ var templates = {
         "<div class='panel panel-default' style='margin-top:16px;'>" +
             "<div class='panel-body'>" +
                 "<div class='row'>" +
-                    "<div class='col-xs-8'><b><%= address %></b></div>" +
+                    "<div class='col-xs-8'><b><%= name %></b></div>" +
                     "<div class='col-xs-4'>" +
                         "<% if(isConnected) { %>" +
                             "<button type='button' class='btn btn-danger btn-block btn-bt btn-bt-disconnect'>" +
