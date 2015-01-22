@@ -1,6 +1,6 @@
 ?xml version='1.0' encoding='utf-8'?>
 <widget id="dk.au.hih.bluetooth" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-<name>BlueTooth v3</name>
+<name>Dazibao v1</name>
 <description>
 Hello World sample application that responds to the deviceready event.
 </description>
